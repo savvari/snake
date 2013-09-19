@@ -26,5 +26,7 @@
         <activity android:name=".AccelerometerTest" android:label="AccelerometerTest"/>
         <activity android:name=".AssetsTest" android:label="AssetsTest"/>
         <activity android:name=".SoundPoolTest" android:label="SoundPoolTest"/>
+        <activity android:name=".ShapeTest" android:label="ShapeTest"/>
+        <activity android:name=".BitmapTest" android:label="BitmapTest"/>
     </application>
 </manifest>
