@@ -28,5 +28,6 @@
         <activity android:name=".SoundPoolTest" android:label="SoundPoolTest"/>
         <activity android:name=".ShapeTest" android:label="ShapeTest"/>
         <activity android:name=".BitmapTest" android:label="BitmapTest"/>
+        <activity android:name=".game.MrNomGame" android:label="MrNomGame"/>
     </application>
 </manifest>

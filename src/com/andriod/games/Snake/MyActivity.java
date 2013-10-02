@@ -12,7 +12,7 @@ import android.widget.ListView;
 
 public class MyActivity extends ListActivity {
     String tests[] = {"LifeCycleTest", "SingleTouchTest", "MultiTouchTest", "AccelerometerTest", "AssetsTest", "SoundPoolTest",
-    "ShapeTest", "BitmapTest"};
+    "ShapeTest", "BitmapTest", "game.MrNomGame"};
 
     /**
      * Called when the activity is first created.
